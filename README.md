@@ -26,3 +26,7 @@ Feel free to enhance this project with another *barcode-scanner* and, why not, b
 with it.
 
 Have fun!
+
+<img src="https://github.com/oricdev/off_product_comparator/blob/master/_documentation/images/scr_search_results.png"
+title="search results"
+height="350px" />
