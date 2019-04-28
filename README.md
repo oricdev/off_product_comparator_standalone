@@ -1,4 +1,4 @@
-# off_product_comparator_standalone
+# OFF-Graph Comparator: standalone version
 This is the **standalone** version of the [OpenFoodFacts Product Comparator](https://github.com/oricdev/off_product_comparator)
 running locally in a browser with all functionalities.
 
